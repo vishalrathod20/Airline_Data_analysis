@@ -108,18 +108,18 @@ By implementing data-driven strategies, airlines can effectively address industr
    ```bash
    git clone https://github.com/your-repo/airline-revenue-optimization.git
 2. Install Dependencies
-To install the required Python packages, run the following command in your terminal:
+   To install the required Python packages, run the following command in your terminal:
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
-# Steps to Connect SQLite Database and Run Analysis Script
+   # Steps to Connect SQLite Database and Run Analysis Script
 
-## 1. Ensure the SQLite Database is Available
-- Confirm that the `travel.sqlite` file is located in the project directory.
+   ## 1. Ensure the SQLite Database is Available
+   - Confirm that the `travel.sqlite` file is located in the project directory.
 
-## 2. Run the Analysis Script
-- Use the following command to execute the script:
-
-```bash
-python analysis.py
+   ## 2. Run the Analysis Script
+   - Use the following command to execute the script:
+ 
+   ```bash
+   Airline_data_analysis.py
