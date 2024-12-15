@@ -107,7 +107,7 @@ By implementing data-driven strategies, airlines can effectively address industr
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/airline-revenue-optimization.git
-##### Install Dependencies
+2. Install Dependencies
 To install the required Python packages, run the following command in your terminal:
 
 ```bash
