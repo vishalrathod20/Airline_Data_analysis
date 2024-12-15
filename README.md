@@ -79,22 +79,6 @@ Ensured clean and accurate data for analysis by reviewing column information for
 
 ---
 
-## **Visualizations**
-
-### **1. Ticket Bookings Over Time**
-![Ticket Bookings Over Time](#)  
-This plot highlights fluctuations in ticket bookings over time.  
-
-### **2. Total Revenue Over Time**
-![Total Revenue Over Time](#)  
-Visualizing total revenue trends provides insights into seasonality and demand.  
-
-### **3. Average Charges by Aircraft**
-![Average Charges by Aircraft](#)  
-A bar plot comparing average charges across different fare conditions and aircraft.
-
----
-
 ## **Tools and Technologies**
 
 - **Python Libraries**:
